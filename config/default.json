@@ -1,0 +1,6 @@
+{
+    "dbURI":"mongodb+srv://lluisb:testingDB@cluster0.eezrp.mongodb.net/Cluster0?retryWrites=true&w=majority",
+    "StripeAPIKey":"sk_test_51ILxDiKGvrlwMRS3XUqps4PGIuDVbPuYWJSg7o6790brwAHTHmxg3Z4NYMRARshorv907cYP6WaALUg3rH60lxwz00LmnhunHW",
+    "jwtsecret":"485s90X13et0okeRZE6tuywA9SE0Cw1S39ceLKK7pwOZZAZeGktnEog93eMBudObRu4IX/VaKpoKRxzDWmC5iDjZ8rE7KIQHTR9k4FvVz8n3Ebxje/XmNTTzDYnfYxAztoIs3YHgTdlBUzkqpLqzbZNwHmqyL33yY4in0YfBbk91pnF2g1duMIlQp1gEZZoe1PAkVih6pkrOwKQ+i+5lDzTmYtnCxj3FQO+HMl2b1LVlpxcQUI2vSaaKjGBkAQNIOmlvTnOJcrdUiAUlbKR2JV02JE4MiG/7GcxwSRIMqBsnqRjUo5G7liK81gvzLhadxPmGOxAS/fBmx+JP0pzlfw=="
+   
+}
